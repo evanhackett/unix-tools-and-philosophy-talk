@@ -13,4 +13,4 @@ Each iteration makes the program more "unixy" by making it easier to use as part
 
 Slides for the talk here: https://docs.google.com/presentation/d/1CQz0-mIQNyVcGA66QxCmU4x5gqrhSjmRVuzTqM84ues/edit?usp=sharing
 
-Video link here: TODO
+Video link here: https://www.youtube.com/watch?v=MP4ZS5qn6lY
